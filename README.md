@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Welcome to Vicky Tech Lab
+## Welcome to Vicky Tech Lab 👋
 
 Master modern technology with clear, practical, and step-by-step tutorials designed for real-world impact.
 
